@@ -12,6 +12,8 @@
 [![Forever Free](https://img.shields.io/badge/Cost-Forever%20Free%20🆓-4CAF50?style=for-the-badge)](#)
 [![No Registration](https://img.shields.io/badge/Privacy-No%20Registration%20🔒-673AB7?style=for-the-badge)](#)
 [![Offline Support](https://img.shields.io/badge/Mode-100%25%20Offline%20✈️-2196F3?style=for-the-badge)](#)
+[![Junior Genius Club](https://img.shields.io/badge/Research-JuniorGenius.Club%20🎓-9C27B0?style=for-the-badge)](https://www.juniorgenius.club/)
+[![Toddlers Info](https://img.shields.io/badge/Parenting-Toddlers.Info%20🍼-009688?style=for-the-badge)](https://www.toddlers.info/)
 
 ---
 
@@ -278,6 +280,90 @@ To give yourself total peace of mind when handing your phone or tablet to your t
 
 ---
 
+## 🌐 The Extended Learning & Parenting Ecosystem
+
+Kids Scroll is part of a larger mission to nurture happy, healthy, and resilient children. Together with our companion platforms **JuniorGenius.Club** and **Toddlers.Info**, we provide a 360-degree support system spanning cognitive science, purposeful play, and daily developmental routines.
+
+```mermaid
+graph TD
+    subgraph Ecosystem ["🎈 The Kids Scroll Family Ecosystem"]
+        KS["🎈 Kids Scroll (App & PWA)<br><b>Mindful Interactive Play & Stories</b><br>50+ Games • 60+ Stories • 3,800+ Wonders"]
+        JG["🎓 JuniorGenius.Club (Research)<br><b>Developmental Science & Quotients</b><br>IQ • EQ • SQ • AQ • CQ • DQ • PQ"]
+        TI["🍼 Toddlers.Info (Routines)<br><b>The Triple Threat (12–36 Months)</b><br>Eating • Playing • Sleeping"]
+    end
+    
+    JG -.->|"Pedagogical Research & Science"| KS
+    TI -.->|"Daily Routine Integration"| KS
+    KS -.->|"Safe Screen Time Solution"| TI
+    KS -.->|"Interactive Gameplay Data"| JG
+```
+
+---
+
+### 🎓 JuniorGenius.Club — The Cognitive Science Behind Kids Scroll
+
+<div align="center">
+  <a href="https://www.juniorgenius.club/" target="_blank" rel="noopener noreferrer">
+    <img src="juniorgenius/assets/images/juniorgenius.club.quotients.webp" alt="Junior Genius Club 9-Concept Visualizer" width="780">
+  </a>
+  <p><em>The JuniorGenius.Club developmental framework: mapping play mechanics to multi-dimensional quotients.</em></p>
+</div>
+
+**[JuniorGenius.Club](https://www.juniorgenius.club/)** is a dedicated research publication and educational platform exploring the holistic development of toddlers and preschoolers. Every game mechanic in Kids Scroll is directly grounded in early childhood psychology and cognitive neuroscience insights published on JuniorGenius.
+
+#### The 7 Core Developmental Quotients:
+
+| Quotient | Developmental Focus | How Kids Scroll Develops It |
+| :--- | :--- | :--- |
+| 🧠 **IQ (Intelligence Quotient)** | Spatial reasoning, logic, geometry, and fluid intelligence | Games like **Shadow Match**, **Shape Sorter**, **Pattern Maker**, and **Size Sorter** build internal cognitive templates and sequence deduction. |
+| ❤️ **EQ (Emotional Quotient)** | Emotional literacy, facial cue decoding, and self-soothing | **Emotion Explorer** and **Build a Face** teach children to label big feelings, while **Breathing Bubble** provides a visual anchor for emotional regulation. |
+| 🤝 **SQ (Social Quotient)** | Turn-taking, empathy, and social boundaries | **Traffic Light** reinforces social stop-and-go self-control, while read-aloud fables model sharing, empathy, and kindness. |
+| 🛡️ **AQ (Adversity Quotient)** | Resilience, grit, and navigating "safe struggle" | Games like **Emoji Jigsaw** offer low-frustration puzzle solving with zero time-out penalties, teaching persistence through trial and error. |
+| 🌍 **CQ (Cultural Quotient)** | Environmental awareness and global biodiversity | **Where Do They Live?**, **Build the Zoo**, and animal stories introduce children to worldwide wildlife habitats, oceans, and savannas. |
+| 📱 **DQ (Digital Quotient)** | Mindful digital habits and intentional engagement | Built completely **ad-free and free from strobing visuals**, fostering calm, active interactions instead of passive dopamine-driven doomscrolling. |
+| 🏃 **PQ (Physical Quotient)** | Fine motor dexterity, pincer grasp, and reflex speed | **Scrub the Mud**, **Finger Painting**, and **Rocket Burst** accelerate neural myelination, hand-eye precision, and tool-handling readiness. |
+
+#### Foundational Abilities Developed Through Research:
+- **Photo-Memory & Visual Spatial Recall**: Grid-based memory matching (**Spot the Pair**) trains visual-spatial working memory, helping children form mental filing systems.
+- **Reflex Speed & Myelination**: Calibrated tap games (**Whack-a-Mole**, **Balloon Pop**) strengthen neural pathways between visual stimuli and motor response without hyper-arousal.
+- **Pincer Grasp & Handwriting Readiness**: Free-hand digital tracing and dragging (**Learn Letters**, **Trace the Path**, **Drawing Canvas**) build finger strength and coordination, transitioning tiny hands smoothly to physical pencils.
+- **Auditory Discrimination**: Sound identification (**Who Makes This Sound?**, **Musical Instruments**) trains phonological awareness, the essential precursor to speech and reading.
+
+> 🔗 **Explore in-depth developmental guides:** [www.juniorgenius.club](https://www.juniorgenius.club/)
+
+---
+
+### 🍼 Toddlers.Info — Holistic Parenting Routines & "The Triple Threat"
+
+<div align="center">
+  <a href="https://www.toddlers.info/" target="_blank" rel="noopener noreferrer">
+    <img src="media/games/preview/kids-scroll.webp" alt="Toddlers Info Play and Learning Hub" width="700">
+  </a>
+  <p><em>Practical, milestone-targeted daily schedules and routines for toddlers aged 12 to 36 months.</em></p>
+</div>
+
+**[Toddlers.Info](https://www.toddlers.info/)** is an authoritative resource created for parents navigating the rewarding yet challenging toddler years (12–36 months). Built by experienced parental advisors, it demystifies toddler growth by focusing on **"The Triple Threat"** of early childhood:
+
+#### 1. 🥣 Eating & Nutrition Schedules
+- **Month-by-Month Feeding Routines**: Calibrated meal and snack schedules tailored for 12, 14, 16, and 17+ month toddlers.
+- **Self-Feeding & Pincer Grasp**: Transitioning from purees to finger foods, encouraging cutlery independence and hand-to-mouth coordination.
+- **Brain & Body Fuel**: Science-backed dietary guidance highlighting Omega-3 fatty acids for brain myelination, calcium for bone density, iron-rich menus, and gut-healthy probiotics.
+- **Tackling Picky Eating**: Practical strategies to overcome mealtime battles through positive sensory food exploration.
+
+#### 2. 🧸 Purposeful Play & Balanced Screen Time
+- **Milestone-Targeted Play**: Balancing energetic physical gross-motor play with quiet, focused cognitive stimulation.
+- **Mindful Screen Integration**: Recommending Kids Scroll as the gold standard for parent-approved digital play — offering an engaging, educational alternative during travel, doctor waits, or quiet afternoon resets.
+- **Social & Creative Milestones**: Supporting parallel play, early literacy through story narration, and mess-free creative finger painting.
+
+#### 3. 🌙 Restorative Sleep Hygiene & Calming Rituals
+- **Daytime Nap Consistency**: Strategies for navigating the challenging transition from two naps down to one single afternoon nap.
+- **Sleep Regressions & Nighttime Fears**: Evidence-based solutions for the notorious 16-month sleep regression, separation anxiety, and night terrors.
+- **Calm Bedtime Routines**: Step-by-step evening rituals combining warm baths, white noise, and Kids Scroll’s gentle read-aloud bedtime tales (**Buster Finds a Bone**, **Daisy’s Cozy Naptime**) and calming sensory activities (**Magic Sand**, **Flashlight Explorer**) to prepare toddlers for peaceful, restorative sleep.
+
+> 🔗 **Access complete toddler schedules & routines:** [www.toddlers.info](https://www.toddlers.info/)
+
+---
+
 ## 📥 Installation & Availability
 
 <div align="center">
@@ -298,39 +384,6 @@ To give yourself total peace of mind when handing your phone or tablet to your t
 
 ---
 
-## 📂 Repository Contents (`kids-scroll-assets`)
-
-This repository houses all production assets, media collections, and knowledge databases utilized across Kids Scroll:
-
-```text
-kids-scroll-assets/
-├── app/                        # Production signed APKs and Android app release bundles
-│   └── app-release-signed.apk
-├── assets/
-│   ├── jsons/
-│   │   ├── story-and-rhymes.json    # Complete library of curated read-aloud stories
-│   │   └── wonders-and-facts.json   # 3,800+ bite-sized facts across 76 topics
-│   └── sounds/
-│       ├── animal-sprite.mp3        # Master multi-animal sound sprite
-│       ├── raw/                     # 50+ individual high-quality animal/vehicle MP3s
-│       └── kids-scroll-background-music.mp3
-├── juniorgenius/               # Pedagogical infographics and early childhood developmental charts
-│   └── assets/images/          # Visual skill-mapping illustrations (coordination, logic, emotions)
-├── media/
-│   ├── campaigns/              # Promotional campaign graphics & teacher approval verifications
-│   ├── games/
-│   │   ├── preview/            # High-resolution game banners and developer profile headers
-│   │   └── screenshot/         # Individual WebP gameplay screenshots
-│   ├── parental-dashboard/     # Screenshots of the parent insights & metrics interface
-│   ├── stories/                # Screenshots of interactive story readers and catalogues
-│   └── stores/                 # Google Play and Amazon Appstore SVG badges
-└── model/
-    ├── story-model.gguf        # Ultra-compact on-device LLM model for offline storytelling
-    └── wllama.wasm             # WebAssembly runtime for local on-device inference
-```
-
----
-
 ## 📜 Development & Principles
 
 Kids Scroll is developed with a strict **Children-First Ethics Pledge**:
@@ -345,6 +398,6 @@ Kids Scroll is developed with a strict **Children-First Ethics Pledge**:
 
 Made with ❤️ for curious little explorers worldwide.
 
-**[🌐 Visit Website](https://www.offlinekidsgames.com/)** • **[⭐ Google Play](https://play.google.com/store/apps/details?id=com.kidsscroll.www.twa)** • **[🔥 Amazon Appstore](https://www.amazon.com/dp/B0HGT27WR4)**
+**[🎈 Kids Scroll](https://www.offlinekidsgames.com/)** • **[🎓 JuniorGenius.Club](https://www.juniorgenius.club/)** • **[🍼 Toddlers.Info](https://www.toddlers.info/)** • **[⭐ Google Play](https://play.google.com/store/apps/details?id=com.kidsscroll.www.twa)** • **[🔥 Amazon Appstore](https://www.amazon.com/dp/B0HGT27WR4)**
 
 </div>
